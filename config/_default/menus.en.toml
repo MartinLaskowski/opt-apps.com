@@ -39,16 +39,11 @@ url = "404/"
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "Get in Touch"
+url = "contact/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 3
+weight = 2
