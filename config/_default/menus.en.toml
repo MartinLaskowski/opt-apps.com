@@ -38,12 +38,4 @@ url = "404/"
 
 
 # footer menu
-[[footer]]
-name = "Get in Touch"
-url = "contact/"
-weight = 1
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 2
+# (none)
